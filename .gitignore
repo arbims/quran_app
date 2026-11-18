@@ -61,3 +61,7 @@ assets/models/**/*.onnx.part*
 
 # Accidental Android build outputs
 /android/build/
+
+# Local assembled runtime archive (parts live on branch runtime-assets)
+/quran_app_runtime_assets.zip
+/quran_app_runtime_assets.zip.part*

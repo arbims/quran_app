@@ -5,30 +5,34 @@ Mushaf Qaloon — lecture, recherche, audio et hifz (Flutter).
 ## Prérequis
 
 - Flutter SDK (compatible `sdk: ^3.13.7` dans `pubspec.yaml`)
-- Assets runtime non versionnés (voir ci-dessous)
+- `curl`, `unzip`, `sha256sum`
+- Assets runtime (~367 Mo compressés) — hors de `main`
 
-## Assets hors Git (~400 Mo)
+## Assets runtime
 
-Pour garder le dépôt léger, ces fichiers **ne sont pas** sur GitHub :
+Les pages mushaf (`.webp`) et les modèles ONNX ne sont pas sur `main`.  
+Ils sont sur la branche [`runtime-assets`](https://github.com/arbims/quran_app/tree/runtime-assets).
 
-| Chemin | Contenu |
-|--------|---------|
-| `assets/mushaf/*.webp` | Pages du mushaf (`page_002.webp` … `page_603.webp`) |
-| `assets/models/quran_ctc/model.int8.onnx.part*` | Modèle ASR (parties 16 Mo) |
-| `assets/models/vad/silero_vad.onnx` | VAD |
+Depuis la racine du repo :
 
-Demande ces dossiers à un membre de l’équipe (zip / Drive), puis place-les aux chemins ci-dessus. Les métadonnées (`bundle.json`, `tokens.txt`, `ATTRIBUTION.txt`) et `assets/mushaf/README.txt` restent dans le repo.
+```bash
+./scripts/fetch_runtime_assets.sh
+```
 
-Sans les WebP mushaf, la lecture ne peut pas s’afficher. Sans les modèles ONNX, le hifz ASR ne démarre pas.
+Cette commande télécharge l’archive, vérifie le SHA256, puis extrait `assets/mushaf/` et `assets/models/`.
+
+Sans ces fichiers, la lecture mushaf et le hifz ASR ne fonctionnent pas.  
+Les métadonnées (`bundle.json`, `tokens.txt`, `ATTRIBUTION.txt`) restent versionnées sur `main`.
 
 ## Démarrage
 
 ```bash
+./scripts/fetch_runtime_assets.sh
 flutter pub get
 flutter run
 ```
 
-## Contenu versionné utile au dev
+## Contenu versionné sur `main`
 
 - `lib/`, tests, plateformes (`android/`, `ios/`, …)
 - `assets/word_data/`, `assets/search/`, `assets/branding/`
