@@ -1,0 +1,11 @@
+Voice activity detection model - Silero VAD
+
+Authors: Silero Team
+Original model: https://github.com/snakers4/silero-vad
+License: MIT (https://github.com/snakers4/silero-vad/blob/master/LICENSE)
+
+File: silero_vad.onnx as distributed by sherpa-onnx
+  https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/silero_vad.onnx
+  643 854 bytes, SHA-256 9E2449E1087496D8D4CABA907F23E0BD3F78D91FA552479BB9C23AC09CBB1FD6
+Not modified. Used by lib/speech/silero_vad.dart to tell the voice from the noise of the room in the memorization mode.
+Runtime: sherpa-onnx / ONNX Runtime (Apache-2.0 / MIT).

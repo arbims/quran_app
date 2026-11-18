@@ -1,0 +1,4874 @@
+[
+  {
+    "page": 1,
+    "width": 1920,
+    "height": 2733,
+    "wordCount": 0,
+    "coverage": "not_segmented",
+    "manifest": null
+  },
+  {
+    "page": 2,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 69,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/2.json"
+  },
+  {
+    "page": 3,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/3.json"
+  },
+  {
+    "page": 4,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/4.json"
+  },
+  {
+    "page": 5,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/5.json"
+  },
+  {
+    "page": 6,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/6.json"
+  },
+  {
+    "page": 7,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/7.json"
+  },
+  {
+    "page": 8,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/8.json"
+  },
+  {
+    "page": 9,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/9.json"
+  },
+  {
+    "page": 10,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/10.json"
+  },
+  {
+    "page": 11,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/11.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 12,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 119,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/12.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 13,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/13.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 14,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 121,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/14.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 15,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/15.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 16,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/16.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 17,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/17.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 18,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/18.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 19,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 146,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/19.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 20,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/20.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 21,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/21.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 22,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/22.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 23,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 121,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/23.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 24,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/24.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 25,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/25.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 26,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/26.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 27,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/27.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 28,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/28.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 29,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/29.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 30,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 155,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/30.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 31,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/31.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 32,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/32.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 33,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/33.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 34,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/34.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 35,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/35.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 36,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 150,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/36.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 37,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/37.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 38,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/38.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 39,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 116,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/39.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 40,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/40.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 41,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 111,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/41.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 42,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 147,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/42.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 43,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/43.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 44,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/44.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 45,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/45.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 46,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 110,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/46.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 47,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/47.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 48,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/48.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 49,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/49.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 50,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/50.json",
+    "alignmentStatus": "automatic"
+  },
+  {
+    "page": 51,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 116,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/51.json"
+  },
+  {
+    "page": 52,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 116,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/52.json"
+  },
+  {
+    "page": 53,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 145,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/53.json"
+  },
+  {
+    "page": 54,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 145,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/54.json"
+  },
+  {
+    "page": 55,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/55.json"
+  },
+  {
+    "page": 56,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/56.json"
+  },
+  {
+    "page": 57,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/57.json"
+  },
+  {
+    "page": 58,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/58.json"
+  },
+  {
+    "page": 59,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/59.json"
+  },
+  {
+    "page": 60,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/60.json"
+  },
+  {
+    "page": 61,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/61.json"
+  },
+  {
+    "page": 62,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/62.json"
+  },
+  {
+    "page": 63,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/63.json"
+  },
+  {
+    "page": 64,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/64.json"
+  },
+  {
+    "page": 65,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/65.json"
+  },
+  {
+    "page": 66,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/66.json"
+  },
+  {
+    "page": 67,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 114,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/67.json"
+  },
+  {
+    "page": 68,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/68.json"
+  },
+  {
+    "page": 69,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 102,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/69.json"
+  },
+  {
+    "page": 70,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 146,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/70.json"
+  },
+  {
+    "page": 71,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/71.json"
+  },
+  {
+    "page": 72,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/72.json"
+  },
+  {
+    "page": 73,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 143,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/73.json"
+  },
+  {
+    "page": 74,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/74.json"
+  },
+  {
+    "page": 75,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/75.json"
+  },
+  {
+    "page": 76,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/76.json"
+  },
+  {
+    "page": 77,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 143,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/77.json"
+  },
+  {
+    "page": 78,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/78.json"
+  },
+  {
+    "page": 79,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 119,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/79.json"
+  },
+  {
+    "page": 80,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 114,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/80.json"
+  },
+  {
+    "page": 81,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 99,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/81.json"
+  },
+  {
+    "page": 82,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 114,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/82.json"
+  },
+  {
+    "page": 83,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/83.json"
+  },
+  {
+    "page": 84,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 109,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/84.json"
+  },
+  {
+    "page": 85,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 145,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/85.json"
+  },
+  {
+    "page": 86,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/86.json"
+  },
+  {
+    "page": 87,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 143,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/87.json"
+  },
+  {
+    "page": 88,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 119,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/88.json"
+  },
+  {
+    "page": 89,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/89.json"
+  },
+  {
+    "page": 90,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 153,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/90.json"
+  },
+  {
+    "page": 91,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/91.json"
+  },
+  {
+    "page": 92,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/92.json"
+  },
+  {
+    "page": 93,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/93.json"
+  },
+  {
+    "page": 94,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 144,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/94.json"
+  },
+  {
+    "page": 95,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 119,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/95.json"
+  },
+  {
+    "page": 96,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/96.json"
+  },
+  {
+    "page": 97,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/97.json"
+  },
+  {
+    "page": 98,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/98.json"
+  },
+  {
+    "page": 99,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/99.json"
+  },
+  {
+    "page": 100,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/100.json"
+  },
+  {
+    "page": 101,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/101.json"
+  },
+  {
+    "page": 102,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/102.json"
+  },
+  {
+    "page": 103,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/103.json"
+  },
+  {
+    "page": 104,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/104.json"
+  },
+  {
+    "page": 105,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/105.json"
+  },
+  {
+    "page": 106,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/106.json"
+  },
+  {
+    "page": 107,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/107.json"
+  },
+  {
+    "page": 108,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 116,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/108.json"
+  },
+  {
+    "page": 109,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 107,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/109.json"
+  },
+  {
+    "page": 110,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 108,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/110.json"
+  },
+  {
+    "page": 111,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/111.json"
+  },
+  {
+    "page": 112,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/112.json"
+  },
+  {
+    "page": 113,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/113.json"
+  },
+  {
+    "page": 114,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/114.json"
+  },
+  {
+    "page": 115,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/115.json"
+  },
+  {
+    "page": 116,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/116.json"
+  },
+  {
+    "page": 117,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 149,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/117.json"
+  },
+  {
+    "page": 118,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 148,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/118.json"
+  },
+  {
+    "page": 119,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/119.json"
+  },
+  {
+    "page": 120,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/120.json"
+  },
+  {
+    "page": 121,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 110,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/121.json"
+  },
+  {
+    "page": 122,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/122.json"
+  },
+  {
+    "page": 123,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 145,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/123.json"
+  },
+  {
+    "page": 124,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/124.json"
+  },
+  {
+    "page": 125,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/125.json"
+  },
+  {
+    "page": 126,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/126.json"
+  },
+  {
+    "page": 127,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 158,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/127.json"
+  },
+  {
+    "page": 128,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/128.json"
+  },
+  {
+    "page": 129,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/129.json"
+  },
+  {
+    "page": 130,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 157,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/130.json"
+  },
+  {
+    "page": 131,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 147,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/131.json"
+  },
+  {
+    "page": 132,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 140,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/132.json"
+  },
+  {
+    "page": 133,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/133.json"
+  },
+  {
+    "page": 134,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/134.json"
+  },
+  {
+    "page": 135,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/135.json"
+  },
+  {
+    "page": 136,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/136.json"
+  },
+  {
+    "page": 137,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/137.json"
+  },
+  {
+    "page": 138,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 119,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/138.json"
+  },
+  {
+    "page": 139,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 144,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/139.json"
+  },
+  {
+    "page": 140,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/140.json"
+  },
+  {
+    "page": 141,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/141.json"
+  },
+  {
+    "page": 142,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/142.json"
+  },
+  {
+    "page": 143,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/143.json"
+  },
+  {
+    "page": 144,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/144.json"
+  },
+  {
+    "page": 145,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 103,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/145.json"
+  },
+  {
+    "page": 146,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/146.json"
+  },
+  {
+    "page": 147,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/147.json"
+  },
+  {
+    "page": 148,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/148.json"
+  },
+  {
+    "page": 149,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/149.json"
+  },
+  {
+    "page": 150,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 155,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/150.json"
+  },
+  {
+    "page": 151,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/151.json"
+  },
+  {
+    "page": 152,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 147,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/152.json"
+  },
+  {
+    "page": 153,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/153.json"
+  },
+  {
+    "page": 154,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 147,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/154.json"
+  },
+  {
+    "page": 155,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/155.json"
+  },
+  {
+    "page": 156,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/156.json"
+  },
+  {
+    "page": 157,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/157.json"
+  },
+  {
+    "page": 158,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/158.json"
+  },
+  {
+    "page": 159,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/159.json"
+  },
+  {
+    "page": 160,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/160.json"
+  },
+  {
+    "page": 161,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 108,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/161.json"
+  },
+  {
+    "page": 162,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 140,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/162.json"
+  },
+  {
+    "page": 163,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/163.json"
+  },
+  {
+    "page": 164,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/164.json"
+  },
+  {
+    "page": 165,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/165.json"
+  },
+  {
+    "page": 166,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/166.json"
+  },
+  {
+    "page": 167,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/167.json"
+  },
+  {
+    "page": 168,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/168.json"
+  },
+  {
+    "page": 169,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/169.json"
+  },
+  {
+    "page": 170,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 112,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/170.json"
+  },
+  {
+    "page": 171,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 107,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/171.json"
+  },
+  {
+    "page": 172,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/172.json"
+  },
+  {
+    "page": 173,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/173.json"
+  },
+  {
+    "page": 174,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 144,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/174.json"
+  },
+  {
+    "page": 175,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/175.json"
+  },
+  {
+    "page": 176,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/176.json"
+  },
+  {
+    "page": 177,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 109,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/177.json"
+  },
+  {
+    "page": 178,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/178.json"
+  },
+  {
+    "page": 179,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/179.json"
+  },
+  {
+    "page": 180,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/180.json"
+  },
+  {
+    "page": 181,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/181.json"
+  },
+  {
+    "page": 182,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 119,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/182.json"
+  },
+  {
+    "page": 183,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/183.json"
+  },
+  {
+    "page": 184,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/184.json"
+  },
+  {
+    "page": 185,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/185.json"
+  },
+  {
+    "page": 186,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/186.json"
+  },
+  {
+    "page": 187,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 121,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/187.json"
+  },
+  {
+    "page": 188,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/188.json"
+  },
+  {
+    "page": 189,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/189.json"
+  },
+  {
+    "page": 190,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 111,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/190.json"
+  },
+  {
+    "page": 191,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 114,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/191.json"
+  },
+  {
+    "page": 192,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 112,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/192.json"
+  },
+  {
+    "page": 193,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/193.json"
+  },
+  {
+    "page": 194,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 111,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/194.json"
+  },
+  {
+    "page": 195,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 117,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/195.json"
+  },
+  {
+    "page": 196,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 121,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/196.json"
+  },
+  {
+    "page": 197,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 109,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/197.json"
+  },
+  {
+    "page": 198,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 106,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/198.json"
+  },
+  {
+    "page": 199,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/199.json"
+  },
+  {
+    "page": 200,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/200.json"
+  },
+  {
+    "page": 201,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/201.json"
+  },
+  {
+    "page": 202,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 121,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/202.json"
+  },
+  {
+    "page": 203,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/203.json"
+  },
+  {
+    "page": 204,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/204.json"
+  },
+  {
+    "page": 205,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/205.json"
+  },
+  {
+    "page": 206,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/206.json"
+  },
+  {
+    "page": 207,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 112,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/207.json"
+  },
+  {
+    "page": 208,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/208.json"
+  },
+  {
+    "page": 209,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/209.json"
+  },
+  {
+    "page": 210,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/210.json"
+  },
+  {
+    "page": 211,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/211.json"
+  },
+  {
+    "page": 212,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/212.json"
+  },
+  {
+    "page": 213,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 158,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/213.json"
+  },
+  {
+    "page": 214,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 144,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/214.json"
+  },
+  {
+    "page": 215,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 147,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/215.json"
+  },
+  {
+    "page": 216,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/216.json"
+  },
+  {
+    "page": 217,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/217.json"
+  },
+  {
+    "page": 218,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/218.json"
+  },
+  {
+    "page": 219,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/219.json"
+  },
+  {
+    "page": 220,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 140,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/220.json"
+  },
+  {
+    "page": 221,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/221.json"
+  },
+  {
+    "page": 222,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/222.json"
+  },
+  {
+    "page": 223,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/223.json"
+  },
+  {
+    "page": 224,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/224.json"
+  },
+  {
+    "page": 225,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 143,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/225.json"
+  },
+  {
+    "page": 226,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 140,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/226.json"
+  },
+  {
+    "page": 227,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/227.json"
+  },
+  {
+    "page": 228,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 153,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/228.json"
+  },
+  {
+    "page": 229,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/229.json"
+  },
+  {
+    "page": 230,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 148,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/230.json"
+  },
+  {
+    "page": 231,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/231.json"
+  },
+  {
+    "page": 232,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/232.json"
+  },
+  {
+    "page": 233,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/233.json"
+  },
+  {
+    "page": 234,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/234.json"
+  },
+  {
+    "page": 235,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 116,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/235.json"
+  },
+  {
+    "page": 236,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/236.json"
+  },
+  {
+    "page": 237,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/237.json"
+  },
+  {
+    "page": 238,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/238.json"
+  },
+  {
+    "page": 239,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/239.json"
+  },
+  {
+    "page": 240,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/240.json"
+  },
+  {
+    "page": 241,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 144,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/241.json"
+  },
+  {
+    "page": 242,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/242.json"
+  },
+  {
+    "page": 243,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/243.json"
+  },
+  {
+    "page": 244,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/244.json"
+  },
+  {
+    "page": 245,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/245.json"
+  },
+  {
+    "page": 246,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/246.json"
+  },
+  {
+    "page": 247,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/247.json"
+  },
+  {
+    "page": 248,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/248.json"
+  },
+  {
+    "page": 249,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 121,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/249.json"
+  },
+  {
+    "page": 250,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/250.json"
+  },
+  {
+    "page": 251,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 152,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/251.json"
+  },
+  {
+    "page": 252,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 145,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/252.json"
+  },
+  {
+    "page": 253,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 153,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/253.json"
+  },
+  {
+    "page": 254,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 140,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/254.json"
+  },
+  {
+    "page": 255,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 105,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/255.json"
+  },
+  {
+    "page": 256,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/256.json"
+  },
+  {
+    "page": 257,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/257.json"
+  },
+  {
+    "page": 258,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/258.json"
+  },
+  {
+    "page": 259,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/259.json"
+  },
+  {
+    "page": 260,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/260.json"
+  },
+  {
+    "page": 261,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 117,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/261.json"
+  },
+  {
+    "page": 262,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/262.json"
+  },
+  {
+    "page": 263,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/263.json"
+  },
+  {
+    "page": 264,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/264.json"
+  },
+  {
+    "page": 265,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/265.json"
+  },
+  {
+    "page": 266,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/266.json"
+  },
+  {
+    "page": 267,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 106,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/267.json"
+  },
+  {
+    "page": 268,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 111,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/268.json"
+  },
+  {
+    "page": 269,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/269.json"
+  },
+  {
+    "page": 270,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/270.json"
+  },
+  {
+    "page": 271,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/271.json"
+  },
+  {
+    "page": 272,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/272.json"
+  },
+  {
+    "page": 273,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/273.json"
+  },
+  {
+    "page": 274,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 148,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/274.json"
+  },
+  {
+    "page": 275,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/275.json"
+  },
+  {
+    "page": 276,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 117,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/276.json"
+  },
+  {
+    "page": 277,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/277.json"
+  },
+  {
+    "page": 278,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/278.json"
+  },
+  {
+    "page": 279,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 112,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/279.json"
+  },
+  {
+    "page": 280,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/280.json"
+  },
+  {
+    "page": 281,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/281.json"
+  },
+  {
+    "page": 282,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 110,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/282.json"
+  },
+  {
+    "page": 283,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/283.json"
+  },
+  {
+    "page": 284,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/284.json"
+  },
+  {
+    "page": 285,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 144,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/285.json"
+  },
+  {
+    "page": 286,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 147,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/286.json"
+  },
+  {
+    "page": 287,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/287.json"
+  },
+  {
+    "page": 288,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/288.json"
+  },
+  {
+    "page": 289,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/289.json"
+  },
+  {
+    "page": 290,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/290.json"
+  },
+  {
+    "page": 291,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/291.json"
+  },
+  {
+    "page": 292,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/292.json"
+  },
+  {
+    "page": 293,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/293.json"
+  },
+  {
+    "page": 294,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/294.json"
+  },
+  {
+    "page": 295,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/295.json"
+  },
+  {
+    "page": 296,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/296.json"
+  },
+  {
+    "page": 297,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/297.json"
+  },
+  {
+    "page": 298,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 152,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/298.json"
+  },
+  {
+    "page": 299,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/299.json"
+  },
+  {
+    "page": 300,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/300.json"
+  },
+  {
+    "page": 301,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 149,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/301.json"
+  },
+  {
+    "page": 302,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/302.json"
+  },
+  {
+    "page": 303,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 160,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/303.json"
+  },
+  {
+    "page": 304,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 153,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/304.json"
+  },
+  {
+    "page": 305,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 114,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/305.json"
+  },
+  {
+    "page": 306,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/306.json"
+  },
+  {
+    "page": 307,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/307.json"
+  },
+  {
+    "page": 308,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 145,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/308.json"
+  },
+  {
+    "page": 309,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 146,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/309.json"
+  },
+  {
+    "page": 310,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/310.json"
+  },
+  {
+    "page": 311,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/311.json"
+  },
+  {
+    "page": 312,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 119,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/312.json"
+  },
+  {
+    "page": 313,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/313.json"
+  },
+  {
+    "page": 314,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 151,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/314.json"
+  },
+  {
+    "page": 315,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/315.json"
+  },
+  {
+    "page": 316,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 152,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/316.json"
+  },
+  {
+    "page": 317,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/317.json"
+  },
+  {
+    "page": 318,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/318.json"
+  },
+  {
+    "page": 319,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/319.json"
+  },
+  {
+    "page": 320,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/320.json"
+  },
+  {
+    "page": 321,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/321.json"
+  },
+  {
+    "page": 322,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 108,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/322.json"
+  },
+  {
+    "page": 323,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/323.json"
+  },
+  {
+    "page": 324,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/324.json"
+  },
+  {
+    "page": 325,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 116,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/325.json"
+  },
+  {
+    "page": 326,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/326.json"
+  },
+  {
+    "page": 327,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 117,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/327.json"
+  },
+  {
+    "page": 328,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/328.json"
+  },
+  {
+    "page": 329,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 112,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/329.json"
+  },
+  {
+    "page": 330,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 109,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/330.json"
+  },
+  {
+    "page": 331,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 109,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/331.json"
+  },
+  {
+    "page": 332,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/332.json"
+  },
+  {
+    "page": 333,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 150,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/333.json"
+  },
+  {
+    "page": 334,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/334.json"
+  },
+  {
+    "page": 335,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 116,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/335.json"
+  },
+  {
+    "page": 336,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/336.json"
+  },
+  {
+    "page": 337,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/337.json"
+  },
+  {
+    "page": 338,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/338.json"
+  },
+  {
+    "page": 339,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/339.json"
+  },
+  {
+    "page": 340,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/340.json"
+  },
+  {
+    "page": 341,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/341.json"
+  },
+  {
+    "page": 342,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/342.json"
+  },
+  {
+    "page": 343,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 143,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/343.json"
+  },
+  {
+    "page": 344,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/344.json"
+  },
+  {
+    "page": 345,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/345.json"
+  },
+  {
+    "page": 346,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/346.json"
+  },
+  {
+    "page": 347,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/347.json"
+  },
+  {
+    "page": 348,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/348.json"
+  },
+  {
+    "page": 349,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/349.json"
+  },
+  {
+    "page": 350,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/350.json"
+  },
+  {
+    "page": 351,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 144,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/351.json"
+  },
+  {
+    "page": 352,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/352.json"
+  },
+  {
+    "page": 353,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/353.json"
+  },
+  {
+    "page": 354,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 159,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/354.json"
+  },
+  {
+    "page": 355,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 145,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/355.json"
+  },
+  {
+    "page": 356,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/356.json"
+  },
+  {
+    "page": 357,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/357.json"
+  },
+  {
+    "page": 358,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/358.json"
+  },
+  {
+    "page": 359,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/359.json"
+  },
+  {
+    "page": 360,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/360.json"
+  },
+  {
+    "page": 361,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 121,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/361.json"
+  },
+  {
+    "page": 362,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/362.json"
+  },
+  {
+    "page": 363,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/363.json"
+  },
+  {
+    "page": 364,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/364.json"
+  },
+  {
+    "page": 365,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/365.json"
+  },
+  {
+    "page": 366,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/366.json"
+  },
+  {
+    "page": 367,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/367.json"
+  },
+  {
+    "page": 368,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/368.json"
+  },
+  {
+    "page": 369,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/369.json"
+  },
+  {
+    "page": 370,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/370.json"
+  },
+  {
+    "page": 371,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/371.json"
+  },
+  {
+    "page": 372,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/372.json"
+  },
+  {
+    "page": 373,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/373.json"
+  },
+  {
+    "page": 374,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/374.json"
+  },
+  {
+    "page": 375,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/375.json"
+  },
+  {
+    "page": 376,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 119,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/376.json"
+  },
+  {
+    "page": 377,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/377.json"
+  },
+  {
+    "page": 378,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/378.json"
+  },
+  {
+    "page": 379,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/379.json"
+  },
+  {
+    "page": 380,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 159,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/380.json"
+  },
+  {
+    "page": 381,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/381.json"
+  },
+  {
+    "page": 382,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/382.json"
+  },
+  {
+    "page": 383,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/383.json"
+  },
+  {
+    "page": 384,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 143,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/384.json"
+  },
+  {
+    "page": 385,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 116,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/385.json"
+  },
+  {
+    "page": 386,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/386.json"
+  },
+  {
+    "page": 387,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 146,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/387.json"
+  },
+  {
+    "page": 388,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/388.json"
+  },
+  {
+    "page": 389,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/389.json"
+  },
+  {
+    "page": 390,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 119,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/390.json"
+  },
+  {
+    "page": 391,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/391.json"
+  },
+  {
+    "page": 392,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/392.json"
+  },
+  {
+    "page": 393,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/393.json"
+  },
+  {
+    "page": 394,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/394.json"
+  },
+  {
+    "page": 395,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/395.json"
+  },
+  {
+    "page": 396,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/396.json"
+  },
+  {
+    "page": 397,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/397.json"
+  },
+  {
+    "page": 398,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/398.json"
+  },
+  {
+    "page": 399,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/399.json"
+  },
+  {
+    "page": 400,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 112,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/400.json"
+  },
+  {
+    "page": 401,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 111,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/401.json"
+  },
+  {
+    "page": 402,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 121,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/402.json"
+  },
+  {
+    "page": 403,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/403.json"
+  },
+  {
+    "page": 404,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/404.json"
+  },
+  {
+    "page": 405,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/405.json"
+  },
+  {
+    "page": 406,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/406.json"
+  },
+  {
+    "page": 407,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/407.json"
+  },
+  {
+    "page": 408,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/408.json"
+  },
+  {
+    "page": 409,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/409.json"
+  },
+  {
+    "page": 410,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/410.json"
+  },
+  {
+    "page": 411,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/411.json"
+  },
+  {
+    "page": 412,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 146,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/412.json"
+  },
+  {
+    "page": 413,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 145,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/413.json"
+  },
+  {
+    "page": 414,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/414.json"
+  },
+  {
+    "page": 415,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/415.json"
+  },
+  {
+    "page": 416,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/416.json"
+  },
+  {
+    "page": 417,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/417.json"
+  },
+  {
+    "page": 418,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/418.json"
+  },
+  {
+    "page": 419,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/419.json"
+  },
+  {
+    "page": 420,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 146,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/420.json"
+  },
+  {
+    "page": 421,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/421.json"
+  },
+  {
+    "page": 422,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 102,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/422.json"
+  },
+  {
+    "page": 423,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 147,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/423.json"
+  },
+  {
+    "page": 424,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/424.json"
+  },
+  {
+    "page": 425,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 140,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/425.json"
+  },
+  {
+    "page": 426,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/426.json"
+  },
+  {
+    "page": 427,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/427.json"
+  },
+  {
+    "page": 428,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/428.json"
+  },
+  {
+    "page": 429,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/429.json"
+  },
+  {
+    "page": 430,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/430.json"
+  },
+  {
+    "page": 431,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 132,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/431.json"
+  },
+  {
+    "page": 432,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/432.json"
+  },
+  {
+    "page": 433,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 148,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/433.json"
+  },
+  {
+    "page": 434,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/434.json"
+  },
+  {
+    "page": 435,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 151,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/435.json"
+  },
+  {
+    "page": 436,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/436.json"
+  },
+  {
+    "page": 437,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/437.json"
+  },
+  {
+    "page": 438,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/438.json"
+  },
+  {
+    "page": 439,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 151,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/439.json"
+  },
+  {
+    "page": 440,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 112,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/440.json"
+  },
+  {
+    "page": 441,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/441.json"
+  },
+  {
+    "page": 442,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/442.json"
+  },
+  {
+    "page": 443,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 140,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/443.json"
+  },
+  {
+    "page": 444,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/444.json"
+  },
+  {
+    "page": 445,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/445.json"
+  },
+  {
+    "page": 446,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/446.json"
+  },
+  {
+    "page": 447,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/447.json"
+  },
+  {
+    "page": 448,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/448.json"
+  },
+  {
+    "page": 449,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/449.json"
+  },
+  {
+    "page": 450,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 106,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/450.json"
+  },
+  {
+    "page": 451,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 116,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/451.json"
+  },
+  {
+    "page": 452,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 121,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/452.json"
+  },
+  {
+    "page": 453,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/453.json"
+  },
+  {
+    "page": 454,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 145,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/454.json"
+  },
+  {
+    "page": 455,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/455.json"
+  },
+  {
+    "page": 456,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/456.json"
+  },
+  {
+    "page": 457,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 149,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/457.json"
+  },
+  {
+    "page": 458,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/458.json"
+  },
+  {
+    "page": 459,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 146,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/459.json"
+  },
+  {
+    "page": 460,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 150,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/460.json"
+  },
+  {
+    "page": 461,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/461.json"
+  },
+  {
+    "page": 462,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/462.json"
+  },
+  {
+    "page": 463,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/463.json"
+  },
+  {
+    "page": 464,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/464.json"
+  },
+  {
+    "page": 465,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/465.json"
+  },
+  {
+    "page": 466,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/466.json"
+  },
+  {
+    "page": 467,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/467.json"
+  },
+  {
+    "page": 468,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/468.json"
+  },
+  {
+    "page": 469,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/469.json"
+  },
+  {
+    "page": 470,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/470.json"
+  },
+  {
+    "page": 471,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/471.json"
+  },
+  {
+    "page": 472,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/472.json"
+  },
+  {
+    "page": 473,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 109,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/473.json"
+  },
+  {
+    "page": 474,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/474.json"
+  },
+  {
+    "page": 475,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/475.json"
+  },
+  {
+    "page": 476,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/476.json"
+  },
+  {
+    "page": 477,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/477.json"
+  },
+  {
+    "page": 478,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/478.json"
+  },
+  {
+    "page": 479,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/479.json"
+  },
+  {
+    "page": 480,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/480.json"
+  },
+  {
+    "page": 481,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 146,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/481.json"
+  },
+  {
+    "page": 482,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/482.json"
+  },
+  {
+    "page": 483,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/483.json"
+  },
+  {
+    "page": 484,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/484.json"
+  },
+  {
+    "page": 485,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/485.json"
+  },
+  {
+    "page": 486,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 145,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/486.json"
+  },
+  {
+    "page": 487,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 147,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/487.json"
+  },
+  {
+    "page": 488,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/488.json"
+  },
+  {
+    "page": 489,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 112,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/489.json"
+  },
+  {
+    "page": 490,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/490.json"
+  },
+  {
+    "page": 491,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/491.json"
+  },
+  {
+    "page": 492,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/492.json"
+  },
+  {
+    "page": 493,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/493.json"
+  },
+  {
+    "page": 494,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 117,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/494.json"
+  },
+  {
+    "page": 495,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/495.json"
+  },
+  {
+    "page": 496,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/496.json"
+  },
+  {
+    "page": 497,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/497.json"
+  },
+  {
+    "page": 498,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 104,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/498.json"
+  },
+  {
+    "page": 499,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 147,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/499.json"
+  },
+  {
+    "page": 500,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/500.json"
+  },
+  {
+    "page": 501,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 161,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/501.json"
+  },
+  {
+    "page": 502,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/502.json"
+  },
+  {
+    "page": 503,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 153,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/503.json"
+  },
+  {
+    "page": 504,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 144,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/504.json"
+  },
+  {
+    "page": 505,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/505.json"
+  },
+  {
+    "page": 506,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/506.json"
+  },
+  {
+    "page": 507,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 143,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/507.json"
+  },
+  {
+    "page": 508,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 152,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/508.json"
+  },
+  {
+    "page": 509,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/509.json"
+  },
+  {
+    "page": 510,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/510.json"
+  },
+  {
+    "page": 511,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 108,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/511.json"
+  },
+  {
+    "page": 512,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/512.json"
+  },
+  {
+    "page": 513,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/513.json"
+  },
+  {
+    "page": 514,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/514.json"
+  },
+  {
+    "page": 515,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 121,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/515.json"
+  },
+  {
+    "page": 516,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 143,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/516.json"
+  },
+  {
+    "page": 517,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 141,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/517.json"
+  },
+  {
+    "page": 518,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/518.json"
+  },
+  {
+    "page": 519,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 153,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/519.json"
+  },
+  {
+    "page": 520,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/520.json"
+  },
+  {
+    "page": 521,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/521.json"
+  },
+  {
+    "page": 522,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 143,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/522.json"
+  },
+  {
+    "page": 523,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/523.json"
+  },
+  {
+    "page": 524,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/524.json"
+  },
+  {
+    "page": 525,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/525.json"
+  },
+  {
+    "page": 526,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 142,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/526.json"
+  },
+  {
+    "page": 527,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 151,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/527.json"
+  },
+  {
+    "page": 528,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 112,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/528.json"
+  },
+  {
+    "page": 529,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/529.json"
+  },
+  {
+    "page": 530,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/530.json"
+  },
+  {
+    "page": 531,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 94,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/531.json"
+  },
+  {
+    "page": 532,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 127,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/532.json"
+  },
+  {
+    "page": 533,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 117,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/533.json"
+  },
+  {
+    "page": 534,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 103,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/534.json"
+  },
+  {
+    "page": 535,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/535.json"
+  },
+  {
+    "page": 536,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/536.json"
+  },
+  {
+    "page": 537,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/537.json"
+  },
+  {
+    "page": 538,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 152,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/538.json"
+  },
+  {
+    "page": 539,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/539.json"
+  },
+  {
+    "page": 540,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/540.json"
+  },
+  {
+    "page": 541,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/541.json"
+  },
+  {
+    "page": 542,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/542.json"
+  },
+  {
+    "page": 543,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 151,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/543.json"
+  },
+  {
+    "page": 544,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 149,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/544.json"
+  },
+  {
+    "page": 545,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/545.json"
+  },
+  {
+    "page": 546,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 136,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/546.json"
+  },
+  {
+    "page": 547,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/547.json"
+  },
+  {
+    "page": 548,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 114,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/548.json"
+  },
+  {
+    "page": 549,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 143,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/549.json"
+  },
+  {
+    "page": 550,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 152,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/550.json"
+  },
+  {
+    "page": 551,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/551.json"
+  },
+  {
+    "page": 552,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 159,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/552.json"
+  },
+  {
+    "page": 553,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/553.json"
+  },
+  {
+    "page": 554,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/554.json"
+  },
+  {
+    "page": 555,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 118,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/555.json"
+  },
+  {
+    "page": 556,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 139,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/556.json"
+  },
+  {
+    "page": 557,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 106,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/557.json"
+  },
+  {
+    "page": 558,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/558.json"
+  },
+  {
+    "page": 559,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 153,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/559.json"
+  },
+  {
+    "page": 560,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 129,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/560.json"
+  },
+  {
+    "page": 561,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 124,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/561.json"
+  },
+  {
+    "page": 562,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/562.json"
+  },
+  {
+    "page": 563,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 151,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/563.json"
+  },
+  {
+    "page": 564,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 123,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/564.json"
+  },
+  {
+    "page": 565,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 151,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/565.json"
+  },
+  {
+    "page": 566,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 126,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/566.json"
+  },
+  {
+    "page": 567,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 138,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/567.json"
+  },
+  {
+    "page": 568,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/568.json"
+  },
+  {
+    "page": 569,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/569.json"
+  },
+  {
+    "page": 570,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 131,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/570.json"
+  },
+  {
+    "page": 571,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 140,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/571.json"
+  },
+  {
+    "page": 572,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 140,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/572.json"
+  },
+  {
+    "page": 573,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 150,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/573.json"
+  },
+  {
+    "page": 574,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 125,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/574.json"
+  },
+  {
+    "page": 575,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 133,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/575.json"
+  },
+  {
+    "page": 576,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 158,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/576.json"
+  },
+  {
+    "page": 577,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/577.json"
+  },
+  {
+    "page": 578,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 130,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/578.json"
+  },
+  {
+    "page": 579,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 147,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/579.json"
+  },
+  {
+    "page": 580,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 111,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/580.json"
+  },
+  {
+    "page": 581,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 128,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/581.json"
+  },
+  {
+    "page": 582,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 109,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/582.json"
+  },
+  {
+    "page": 583,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 117,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/583.json"
+  },
+  {
+    "page": 584,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 134,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/584.json"
+  },
+  {
+    "page": 585,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 137,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/585.json"
+  },
+  {
+    "page": 586,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 108,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/586.json"
+  },
+  {
+    "page": 587,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/587.json"
+  },
+  {
+    "page": 588,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 135,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/588.json"
+  },
+  {
+    "page": 589,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 120,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/589.json"
+  },
+  {
+    "page": 590,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 113,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/590.json"
+  },
+  {
+    "page": 591,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 122,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/591.json"
+  },
+  {
+    "page": 592,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/592.json"
+  },
+  {
+    "page": 593,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 115,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/593.json"
+  },
+  {
+    "page": 594,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 112,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/594.json"
+  },
+  {
+    "page": 595,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 107,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/595.json"
+  },
+  {
+    "page": 596,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 101,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/596.json"
+  },
+  {
+    "page": 597,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 114,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/597.json"
+  },
+  {
+    "page": 598,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 111,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/598.json"
+  },
+  {
+    "page": 599,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 96,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/599.json"
+  },
+  {
+    "page": 600,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 81,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/600.json"
+  },
+  {
+    "page": 601,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 82,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/601.json"
+  },
+  {
+    "page": 602,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 64,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/602.json"
+  },
+  {
+    "page": 603,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 80,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/603.json"
+  },
+  {
+    "page": 604,
+    "width": 2481,
+    "height": 3509,
+    "wordCount": 70,
+    "coverage": "automatic_draft",
+    "manifest": "assets/word_data/pages/604.json"
+  }
+]

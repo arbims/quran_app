@@ -1,0 +1,63 @@
+name: quran_app
+description: مصحف قالون — قراءة المصحف والبحث والصوت.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^3.4.3
+  shared_preferences: ^2.5.6
+  just_audio: ^0.10.6
+  audio_session: ^0.2.4
+  flutter_native_splash: ^2.4.7
+  archive: ^4.6.0
+  wakelock_plus: ^1.8.2
+  sherpa_onnx: ^2.0.1
+  record: ^7.1.2
+  permission_handler: ^13.0.2
+  path: ^1.9.1
+  path_provider: ^2.1.6
+  audio_service: ^0.18.19
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  shaders:
+    - shaders/mushaf_page_curl.frag
+  assets:
+    - assets/mushaf/
+    - assets/branding/
+    - assets/search/
+    - assets/word_data/index.json
+    - assets/word_data/pages_gz/
+    - assets/models/vad/
+    - assets/models/quran_ctc/
+
+flutter_launcher_icons:
+  android: false
+  ios: true
+  image_path: assets/branding/app_icon.png
+  remove_alpha_ios: true
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  # Basmala entière, centrée (hors Android 12).
+  image: assets/branding/splash_basmala.png
+  android: true
+  ios: true
+  web: true
+  fullscreen: true
+  android_12:
+    color: "#FFFFFF"
+    # Version carrée rembourrée : le masque circulaire Android 12
+    # ne coupe plus la calligraphie.
+    image: assets/branding/splash_basmala_android12.png

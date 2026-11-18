@@ -1,0 +1,20 @@
+Quran speech recognition model - derived from mohammed/fastconformer-quran-ar
+
+Author of the original model: Mohammed
+Original model: https://huggingface.co/mohammed/fastconformer-quran-ar
+License declared by the author: Creative Commons Attribution 4.0 International
+License: https://creativecommons.org/licenses/by/4.0/
+
+Base model: nvidia/stt_ar_fastconformer_hybrid_large_pcd_v1.0 (CC-BY-4.0)
+Training data of the original model: tarteel-ai/everyayah
+
+Modifications made for this app (this file describes a MODIFIED version, not the original model):
+  * the CTC output layer was replaced by a new one, with a vocabulary (1024 SentencePiece pieces) that covers all the
+    signs of the Qaloon text of this mushaf (dagger alif, small waw / yeh, inverted damma, ...);
+  * the model was then fine-tuned (new output layer first, then the whole network) to write the vocalized Qaloon text,
+    on recitations of the riwaya of Qaloon (recordings published by MP3Quran: Mahmoud Khalil Al-Husary and
+    Ad-Dukkali Muhammad Al-Alim); a third reciter (Ali Al-Hudhaifi) was kept aside to test it;
+  * the CTC branch was exported to ONNX in full context (att_context_size [-1, -1]), the weights of its matrix
+    multiplications were quantized to INT8, and the file was split into 16 MiB parts.
+See tools/asr/ (training, evaluation) and tools/ctc/export_ctc.py (export).
+Runtime: sherpa-onnx / ONNX Runtime (Apache-2.0 / MIT).

@@ -1,0 +1,29 @@
+{
+  "source": "derived from https://huggingface.co/mohammed/fastconformer-quran-ar: new CTC vocabulary, fine-tuned on Qaloon recitations (see ATTRIBUTION.txt), exported in full context",
+  "files": {
+    "model.int8.onnx": {
+      "bytes": 173888153,
+      "sha256": "714d29d8496275d8d8ebe62ba0bfb0cba0859ab8d11e3a242f4863186fc08387",
+      "parts": [
+        "model.int8.onnx.part00",
+        "model.int8.onnx.part01",
+        "model.int8.onnx.part02",
+        "model.int8.onnx.part03",
+        "model.int8.onnx.part04",
+        "model.int8.onnx.part05",
+        "model.int8.onnx.part06",
+        "model.int8.onnx.part07",
+        "model.int8.onnx.part08",
+        "model.int8.onnx.part09",
+        "model.int8.onnx.part10"
+      ]
+    },
+    "tokens.txt": {
+      "bytes": 15398,
+      "sha256": "85487c812e308ed6f3aa9ad8dfe14f81a124baed079e11f830d4c4a322db3f43",
+      "parts": [
+        "tokens.txt"
+      ]
+    }
+  }
+}

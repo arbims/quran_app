@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Coran (web)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "web-server",
+      "toolArgs": [
+        "--web-hostname=0.0.0.0",
+        "--web-port=8765"
+      ]
+    }
+  ]
+}
